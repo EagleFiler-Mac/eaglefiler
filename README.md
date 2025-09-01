@@ -1,4 +1,4 @@
-# EagleFiler – Smart Archiving & Organization
+# EagleFiler Mac
 
 ![EagleFiler Logo](https://c-command.com/images/eaglefiler-icon-512.png)  
 
